@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/profile.php?id=100086007997149" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="52" height="40" alt="instagram logo"  />
+  <img src="[https://img.icons8.com/?size=100&id=13441&format=png&color=000000](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ### Glad to see you here! &nbsp; Front-end Developer![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
@@ -41,7 +41,7 @@ Like My Work?
 
    <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" height="60" alt="html5 logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)" height="60" alt="html5 logo"  />
   <img width="12" />
 </div>
 
