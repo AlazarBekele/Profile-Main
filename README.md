@@ -41,7 +41,8 @@ Like My Work?
 
    <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" height="60" alt="html5 logo"  />
   <img width="12" />
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)" height="60" alt="html5 logo"  />
+    <img src="![Uploading image.png…]()
+" height="60" alt="html5 logo"  />
   <img width="12" />
 </div>
 
