@@ -12,7 +12,7 @@
 
 ### Glad to see you here! &nbsp; Front-end Developer![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-What's up ✌️ World I'm Alazar Bekele I'm Grade 10 student in <br>👨‍🎓 Kokebe Tsibah High School. I have studied about basic " frontend"for the past two Years. 🚀
+What's up ✌️ World I'm Alazar Bekele I'm Grade 11 student in <br>👨‍🎓 Kokebe Tsibah High School. I have studied about" Fullstack Development "for the past two Years. 🚀
 
 Like My Work?
 
